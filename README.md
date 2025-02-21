@@ -1,1 +1,1 @@
-# E-Commerce-Purchase-Intention-Model-
+# E-Commerce-Purchase-Intention-Model
